@@ -486,6 +486,7 @@ h6 {
   .img123 {
     width: 40px;
     height: auto;
+    align-items: center;
   }
   .img123:hover{
     cursor: pointer;

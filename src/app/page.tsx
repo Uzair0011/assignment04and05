@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Hero/>
       <Blog />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
