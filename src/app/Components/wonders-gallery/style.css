@@ -11,7 +11,7 @@ body {
 .image11 {
   width: 100%;
   height: auto;
-  background-color: #d6d6d6;
+  /* background-color: #d6d6d6; */
   float: center;
   flex-direction: column;
 }
