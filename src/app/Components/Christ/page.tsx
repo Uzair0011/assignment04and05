@@ -11,7 +11,7 @@ export default function Christ() {
           height={300} // Height of the image in pixels
         />
       </div>
-      <h3 className="h3">Christ the Redeemer</h3>
+      <h3 className="h3">Giza pyramid</h3>
 
       <p className="p">
         Christ the Redeemer, a colossal statue of Jesus, stands atop Mount

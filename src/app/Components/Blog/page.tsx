@@ -11,16 +11,15 @@ export default function Blog() {
           <Image
             className="img1"
             src="/01.jpg"
-            alt="Christ the Redeemer"
+            alt="Giza pyramid"
             width={600}
             height={400}
           />
         </Link>
         <div className="right">
-          <h1 className="blog-head">Christ the Redeemer</h1>
+          <h1 className="blog-head">Giza pyramid</h1>
           <p className="blog-definition">
-            Christ the Redeemer, a colossal statue of Jesus, stands atop Mount
-            Corcovado in Rio de Janeiro.
+            The Giza pyramid complex (also called the Giza necropolis) in Egypt is home to the Great Pyramid.
           </p>
           <Link href={"Components/Christ"}>
             <button className="button">
