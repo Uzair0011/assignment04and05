@@ -35,23 +35,28 @@ h1 {
   font-size: 30px;
   text-decoration: underline;
   font-weight: 700;
-  color: #061335;
+  /* color: #061335; */
+  color: #1C4982;
 }
 p {
   font-size: 15px;
-  color: #061335;
+  /* color: #061335; */
+  color: #1C4982;
   font-weight: 400;
 }
 .f {
   width: 100%;
   height: 200px;
-  background-color: #061335;
+  /* background-color: #061335; */
+  background-color: #1C4982;
 }
 .we {
   width: 30px;
   /* color: #061335; */
-  color: #061335;
-  background-color: #061335;
+  /* color: #061335; */
+  color: #1C4982;
+  /* background-color: #061335; */
+  background-color: #1C4982;
 }
 .logoBig{
   width: 30px;
@@ -93,6 +98,8 @@ background-color: 061335;
     /* align-items: center; */
     gap: 20;
     text-align: center;
-    background-color: #061335;
+    /* background-color: #061335; */
+    background-color: #1C4982;
+    
   }
 }

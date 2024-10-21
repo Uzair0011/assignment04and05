@@ -58,7 +58,8 @@ body {
 
 .blog-head {
   font-size: 30px;
-  color: #061335;
+  /* color: #061335; */
+  color: #1C4982;
   font-weight: 700;
   text-align: center;
 
@@ -75,7 +76,8 @@ body {
 
 .button {
   border-radius: 4px;
-  background-color: #061335;
+  /* background-color: #061335; */
+  background-color: #1C4982;
   border: none;
   color: #ffffff;
   text-align: center;

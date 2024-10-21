@@ -39,7 +39,8 @@ body {
 .navbar {
   width: 100%;
   height: 76px;
-  background-color: #091b4a;
+  /* background-color: #091b4a; */
+  background-color: #1C4982;
   color: white;
   /* padding: 2px 20px; */
   align-items: center;
@@ -69,7 +70,8 @@ li {
 li:hover {
   /* background-color: #061335; */
   background-color: #9e9a9a;
-  color: #091b4a;
+  /* color: #091b4a; */
+color: #1C4982;
   /* animation: jello-horizontal 0.3s infinite both; */
   animation: heartbeat 1.5s ease-in-out infinite both;
 }
@@ -425,7 +427,8 @@ Body Hero Main Tile page
   display: flex;
   justify-content: space-between;
   padding: 30px;
-  background-color: #061335;
+  /* background-color: #061335; */
+  background-color: #1C4982;
   color: white;
 }
 .rightAlign {
